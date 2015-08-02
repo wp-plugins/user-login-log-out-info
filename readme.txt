@@ -22,7 +22,7 @@ A plugin that displays the 'Total Minutes', 'Number of Logins', and 'Average Tim
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+1. This screen shot description corresponds to exitbanner.png (png|jpg|jpeg|gif). Note that the screenshot is taken from
 the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
 directory take precedence. For example, `/assets/exitbanner.png` would win over `/tags/exitbanner.png` 
 (or jpg, jpeg, gif).
